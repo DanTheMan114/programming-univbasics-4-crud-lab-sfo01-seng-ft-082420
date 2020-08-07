@@ -46,6 +46,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-array[1,2,3,4,5,6,7,8,9,10,]
+array[1,2,3,4,5,]
 
 end
