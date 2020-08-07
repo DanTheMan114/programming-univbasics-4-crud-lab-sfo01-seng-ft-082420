@@ -46,6 +46,6 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-array.delete_at(0,1)
+array.delete_at(1)
 
 end
