@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   
- puts create_an_array.push "element"
+ create_an_array.push "element"
   
 end
 
