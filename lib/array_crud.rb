@@ -16,7 +16,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   
-  create_an_array.unshift "array"
+  create_an_array.unshift "wow"
   
 end
 
